@@ -3,10 +3,24 @@ using namespace std;
 
 class Node
 {
-    public:
+public:
     int noMhs;
     Node *next;
 };
+
+class LinkedList
+{
+    Node *START;
+
+Public:
+    Linked List()
+    {
+        START = NULL;
+    }
+
+  
+} 
+
 
 int main()
 {
